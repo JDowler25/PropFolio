@@ -1,0 +1,14 @@
+com\jaydandowler\propfolio\controllers\ProjectApi.class
+com\jaydandowler\propfolio\services\UserService.class
+com\jaydandowler\propfolio\models\LoginUser.class
+com\jaydandowler\propfolio\validationgroups\CreateUser.class
+com\jaydandowler\propfolio\services\PropertyService.class
+com\jaydandowler\propfolio\validationgroups\UpdateUser.class
+com\jaydandowler\propfolio\models\Property.class
+com\jaydandowler\propfolio\services\UserNotFoundException.class
+com\jaydandowler\propfolio\repositories\UserRepository.class
+com\jaydandowler\propfolio\repositories\PropertyRepository.class
+com\jaydandowler\propfolio\models\User$UpdateUser.class
+com\jaydandowler\propfolio\PropfolioApplication.class
+com\jaydandowler\propfolio\models\User$CreateUser.class
+com\jaydandowler\propfolio\models\User.class
