@@ -25,7 +25,7 @@ import com.jaydandowler.propfolio.services.UserService;
 import jakarta.validation.Valid;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5173", allowedHeaders = "*", allowCredentials = "true")
+@CrossOrigin(origins = {"http://localhost:5173", "https://propfolio-olive.vercel.app"}, allowedHeaders = "*", allowCredentials = "true")
 @RequestMapping("/api")
 public class ProjectApi {
 
